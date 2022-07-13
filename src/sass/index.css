@@ -1,0 +1,13 @@
+body {
+  padding: 20px;
+  font-size: 18px;
+}
+
+p a {
+  color: #dc143c;
+}
+
+p a:hover {
+  color: #6495ed;
+}
+/*# sourceMappingURL=index.css.map */

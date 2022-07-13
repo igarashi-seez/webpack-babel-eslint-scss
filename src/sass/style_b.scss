@@ -1,0 +1,11 @@
+$color_a: #dc143c;
+$color_a_hover: #6495ed;
+
+p {
+  a {
+    color: $color_a;
+    &:hover {
+      color: $color_a_hover;
+    }
+  }
+}
